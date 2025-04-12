@@ -1,1 +1,2 @@
-# akka-in-action-2e
+# Akka in Action 2nd Edition source code
+# AKKA, JAVA, QueryDSL
